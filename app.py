@@ -2,7 +2,7 @@
 import numpy as np # type: ignore
 from flask import Flask,request,render_template # type: ignore
 
-# Library ( Pickle is used for loading pickle file)
+# Module ( Pickle is used for loading pickle file)
 import pickle
 
 flask_app = Flask(__name__)
